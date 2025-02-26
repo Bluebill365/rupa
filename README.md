@@ -1,7 +1,7 @@
 # rupa
 Health App – Virtual Consultation & Health Tracking Platform
 
-The Health App is a user-friendly and secure platform designed to connect patients with healthcare professionals through virtual consultations, health tracking, and real-time updates. The app ensures data privacy.
+The Health App is a user-friendly and secure platform that connects patients with healthcare professionals through virtual consultations, health tracking, and real-time updates. The app ensures data privacy.
 
 Key Features:
 Secure User Registration & Login – Supports both patients and verified doctors.  
